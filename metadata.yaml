@@ -1,5 +1,8 @@
 _repo: The-Emancipatrix_5699
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Flint, Homer Eon
@@ -14,6 +17,8 @@ description: Science fiction fans, settle in for a gripping interplanetary adven
   fact-finding trip -- and finds himself face-to-face with a scientific conundrum.
   This thought-provoking and prescient tale is sure to please connoisseurs of golden-age
   SF.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5699#The-Emancipatrix
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
